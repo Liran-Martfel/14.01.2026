@@ -1,0 +1,10 @@
+pizza: int = 4
+#ניתן גם להגדיר מראש כמות אנשים וכמות משולשים
+#בכל פיצה 8 משולשים
+#יש 5 אנשים במסיבה
+slices = pizza * 8
+each: int = 32 //5
+leftover: int = slices%5
+print ("There is a",slices,"amount of pizza clices")
+print ("Every guest can eat up to: ",each)
+print ("There is", leftover, "pizzas left")
