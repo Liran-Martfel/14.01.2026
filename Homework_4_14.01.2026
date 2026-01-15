@@ -1,0 +1,11 @@
+#אופציה אחת
+print ("my name is Liran Martfel")
+
+#אופציה 2
+print ("Hello, what is your name? ")
+name = "Liran Martfel"
+print (name)
+
+#אופציה שלישית
+name = "Liran Martfel"
+print ("Hello, what is your name? ", name)
